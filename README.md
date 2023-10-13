@@ -26,5 +26,16 @@ Google benchmark has been used to evaluate the complexity of the algorithm. My i
   !./a.out rows cols
 ```
 where you have to substitute rows and cols with your values.
-![](https://github.com/FrancescoZanella/Disjoint_set_maze/blob/main/output.png)
+
+## Example of output
+
+
+![](https://github.com/FrancescoZanella/Disjoint_set_maze/blob/main/out.png)
+
+**Description: example of output with 10 rows and 10 columns**
+
+## Conclusion
+
+This code is designed to address the data-structure challenge for mid course evalution for the Advanced Algorithms and Parallel Programming course at Polimi.
+With this implementation  I have received 3 out of 2.
 
